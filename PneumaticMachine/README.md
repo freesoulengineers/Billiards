@@ -8,7 +8,7 @@
 진행하자고 하였다.
 ```
 ### 공압 당구 머신 시스템
-![alt text](/PneumaticMachine/image/front.jpg "PneumaticMachine")
+![alt text](/PneumaticMachine/image/BilliardStructure.jpg "PneumaticMachine")
 
 #### 발전 가능한 부분
 1. 탈착이 가능하면서 꽤 무게를 버틸수 있는 스탠드로 사진용 삼각대를 썼지만 여전히 진동이 심했다.
@@ -22,3 +22,6 @@
 - BOM 폴더: 구매한 장비 리스트
 - image 폴더: 각종 참조 사진 들
 - structure: 설계 캐드 도면 들
+
+#### 사용된 기술들
+[공대형 당구 편 Wiki 가서 확인!](https://github.com/gradefree-eng/Billiards/wiki/F%ED%95%99%EC%A0%90-%EA%B3%B5%EB%8C%80%ED%98%95-%EB%8B%B9%EA%B5%AC%ED%8E%B8-%EC%9C%84%ED%82%A4)
